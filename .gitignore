@@ -1,7 +1,7 @@
 # kate-swp files
 ..gitignore.kate-swp
-Населення\ та\ Кордони/.Населення.txt.kate-swp
+*.kate-swp
 # krita files
-Населення\ та\ Кордони/Кордони.kra
-Населення\ та\ Кордони/Кордони.png~
+*.png~
+*.kra~
 
